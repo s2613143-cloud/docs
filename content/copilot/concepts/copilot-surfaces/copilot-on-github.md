@@ -152,3 +152,18 @@ For information about built-in security protections, see [AUTOTITLE](/copilot/co
 * [AUTOTITLE](/copilot/tutorials/copilot-cookbook)
 * For delegating work from tools such as Microsoft Teams and Slack, see [AUTOTITLE](/copilot/concepts/tools/about-copilot-integrations).
 * For organization and enterprise metrics on pull request creation, merges, and time to merge, see [AUTOTITLE](/copilot/concepts/billing-and-usage/copilot-usage-metrics/copilot-metrics).
+* Redesign my existing Jinghan Technology website with a sophisticated vintage Japanese creative studio aesthetic.
+
+IMPORTANT:
+- Keep all existing business content and functionality.
+- Redesign the entire website, not just one section.
+- Use a vintage editorial style with cream, ink black, deep red, and antique gold.
+- Add beautiful animated water ripples in the background.
+- Add elegant goldfish swimming slowly across the screen.
+- Add smooth scrolling and subtle animations triggered while scrolling.
+- Use refined Japanese-inspired typography and artistic layouts.
+- Make the website beautiful and responsive on both mobile and desktop.
+- Do not include desserts, bakeries, or food-related imagery.
+- Preserve all existing business information and language options.
+- Modify the actual source code so the website works when deployed.
+- Do not replace the website with a static image or a mockup.
